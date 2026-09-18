@@ -1,11 +1,11 @@
 :root {
-  --bg: #0d1117;
-  --card: #161b22;
-  --border: #30363d;
-  --text: #e6edf3;
-  --muted: #8b949e;
-  --green: #2da44e;
-  --blue: #58a6ff;
+  --bg: #f6f8fa;
+  --card: #ffffff;
+  --border: #d0d7de;
+  --text: #24292f;
+  --muted: #57606a;
+  --green: #1a7f37;
+  --blue: #0969da;
 }
 * { box-sizing: border-box; }
 body {
@@ -30,7 +30,7 @@ body {
 h1 { margin: 0 0 16px; font-size: 32px; }
 h2 { font-size: 18px; margin: 0 0 8px; color: var(--blue); }
 .lead { color: var(--muted); margin: 0 0 24px; }
-code { background: #21262d; padding: 2px 6px; border-radius: 6px; font-size: .9em; }
+code { background: #eef1f4; padding: 2px 6px; border-radius: 6px; font-size: .9em; }
 .edit-me {
   padding: 20px;
   border: 1px dashed var(--green);
